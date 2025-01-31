@@ -455,7 +455,8 @@ li {
   box-shadow: 0 0px 16px rgba(0, 73, 134, .50);
 }
 .set-list-content ul {
-  width: 80%;
+  width: 90%;
+  max-width: 450px;
   margin: 0 auto;
   padding-top: 20px;
   padding-bottom: 20px;
