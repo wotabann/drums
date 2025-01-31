@@ -469,7 +469,7 @@ li {
 .set-list-content-title {
   padding: 1px 0;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: bold;
   color: rgb(0, 73, 134);
 }
 .set-list-content-artist {
