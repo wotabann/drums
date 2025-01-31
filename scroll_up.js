@@ -1,5 +1,5 @@
 //load_effect
-$(document).ready(function(){
+$(window).on('load', function() {
   var scrollAnimationElm = document.querySelectorAll('.scroll_up , .scroll_left , .scroll_right');
     for (var i = 0; i < scrollAnimationElm.length; i++) {
       var triggerMargin = 150;
